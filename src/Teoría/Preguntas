@@ -1,0 +1,25 @@
+Comente brevemente las siguientes afirmaciones: (2 puntos)
+
+- Dado un código breve y sencillo, realizado por un programador experimentado, podemos afirmar que no
+    tendrá errores.
+
+    Esto es falso, dado que aunque si es cierto que es muy probable que no tenga errores el programa,
+    no significa que el programador no se haya podido equivocar en algo debido a un despiste. Es por esto que
+    es necesario revisar el código y hacerle pruebas para detectar posibles errores. Además si es el
+    código como dice breve y sencillo, más fácil será hacerle las pruebas unitarias.
+
+- Es posible garantizar que un código no tiene errores, siempre que se hagan la pruebas unitarias por
+un equipo de pruebas especializado.
+
+    Esto es falso, dado que siempre se le puede escapar algún error al equipo de prueba. Es por esto que las
+    aplicaciones o los videojuegos, por ejemplo, están constantemente sacando nuevas versiones donde los errores
+    no detectados de las anteriores estén solucionados.
+
+Explique brevemente las estrategias de prueba de caja blanca para las siguientes estructuras: (2 puntos)
+
+- Selectiva.
+    Probar todas las combinaciones posibles de las estructuras. La idea general es que en cada
+    expresión se cumpla en un caso y en otro no.
+
+- Iterativa.
+    Ejecutar el bucle 0 veces, 1 vez, un número determinado de veces, un máximo -1 y un máximo +1.
